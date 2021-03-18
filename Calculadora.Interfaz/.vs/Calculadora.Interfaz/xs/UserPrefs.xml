@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{71755515-BEDE-4073-96BE-0B2DAC1DF56E}|Default">
+  <MonoDevelop.Ide.ItemProperties.Calculadora.Interfaz PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calculadora.Librería/Operacion.cs">
+    <Files>
+      <File FileName="Calculadora.Interfaz/Program.cs" Line="1" Column="1" />
+      <File FileName="Calculadora.Librería/MyClass.cs" Line="36" Column="65" />
+      <File FileName="Calculadora.Librería/Operacion.cs" Line="33" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Calculadora.Interfaz" expanded="True">
+            <Node name="Calculadora.Interfaz" expanded="True">
+              <Node name="References" expanded="True" />
+            </Node>
+            <Node name="Calculadora.Librería" expanded="True">
+              <Node name="Operacion.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

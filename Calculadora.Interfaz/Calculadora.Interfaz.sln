@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora.Interfaz", "Calculadora.Interfaz\Calculadora.Interfaz.csproj", "{71755515-BEDE-4073-96BE-0B2DAC1DF56E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora.Librería", "Calculadora.Librería\Calculadora.Librería.csproj", "{6092BC65-D231-487A-AA00-BB5755F1DF89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71755515-BEDE-4073-96BE-0B2DAC1DF56E}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{71755515-BEDE-4073-96BE-0B2DAC1DF56E}.Debug|anycpu.Build.0 = Debug|anycpu
+		{71755515-BEDE-4073-96BE-0B2DAC1DF56E}.Release|anycpu.ActiveCfg = Release|anycpu
+		{71755515-BEDE-4073-96BE-0B2DAC1DF56E}.Release|anycpu.Build.0 = Release|anycpu
+		{6092BC65-D231-487A-AA00-BB5755F1DF89}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{6092BC65-D231-487A-AA00-BB5755F1DF89}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{6092BC65-D231-487A-AA00-BB5755F1DF89}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{6092BC65-D231-487A-AA00-BB5755F1DF89}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

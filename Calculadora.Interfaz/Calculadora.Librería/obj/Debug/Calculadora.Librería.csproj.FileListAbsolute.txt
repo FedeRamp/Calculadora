@@ -1,0 +1,6 @@
+/Users/fede/Documents/GitHub/Calculadora/Calculadora.Interfaz/Calculadora.Librería/bin/Debug/Calculadora.Librería.dll
+/Users/fede/Documents/GitHub/Calculadora/Calculadora.Interfaz/Calculadora.Librería/bin/Debug/Calculadora.Librería.pdb
+/Users/fede/Documents/GitHub/Calculadora/Calculadora.Interfaz/Calculadora.Librería/obj/Debug/Calculadora.Librería.csprojAssemblyReference.cache
+/Users/fede/Documents/GitHub/Calculadora/Calculadora.Interfaz/Calculadora.Librería/obj/Debug/Calculadora.Librería.csproj.CoreCompileInputs.cache
+/Users/fede/Documents/GitHub/Calculadora/Calculadora.Interfaz/Calculadora.Librería/obj/Debug/Calculadora.Librería.dll
+/Users/fede/Documents/GitHub/Calculadora/Calculadora.Interfaz/Calculadora.Librería/obj/Debug/Calculadora.Librería.pdb
