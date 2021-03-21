@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{71755515-BEDE-4073-96BE-0B2DAC1DF56E}|Default">
   <MonoDevelop.Ide.ItemProperties.Calculadora.Interfaz PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Calculadora.Librería/Operacion.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calculadora.Interfaz/Program.cs">
     <Files>
-      <File FileName="Calculadora.Interfaz/Program.cs" Line="1" Column="1" />
-      <File FileName="Calculadora.Librería/MyClass.cs" Line="36" Column="65" />
-      <File FileName="Calculadora.Librería/Operacion.cs" Line="33" Column="22" />
+      <File FileName="Calculadora.Interfaz/Program.cs" Line="27" Column="36" />
+      <File FileName="Calculadora.Librería/MyClass.cs" Line="55" Column="25" />
+      <File FileName="Calculadora.Librería/Operacion.cs" Line="30" Column="38" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,10 +12,9 @@
           <Node name="Calculadora.Interfaz" expanded="True">
             <Node name="Calculadora.Interfaz" expanded="True">
               <Node name="References" expanded="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
-            <Node name="Calculadora.Librería" expanded="True">
-              <Node name="Operacion.cs" selected="True" />
-            </Node>
+            <Node name="Calculadora.Librería" expanded="True" />
           </Node>
         </State>
       </Pad>
